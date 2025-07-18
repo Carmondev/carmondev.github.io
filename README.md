@@ -23,7 +23,6 @@ Sou um desenvolvedor Fullstack com experiência em criação de aplicações mod
 Sistema inteligente de atendimento de chamados, com:
 - Backend em **FastAPI** com **PostgreSQL**
 - App mobile em **Flutter**
-- Interface web para administração em **Angular**
 - Classificação automática de tickets com **Inteligência Artificial**
 - Deploy com Docker e documentação via Swagger
 
@@ -31,7 +30,6 @@ Sistema inteligente de atendimento de chamados, com:
 Sistema de gerenciamento de tarefas com:
 - Autenticação, criação e delegação de tarefas
 - Notificações automáticas
-- Interface limpa e responsiva com **Angular**
 - Backend FastAPI com PostgreSQL
 
 ---
