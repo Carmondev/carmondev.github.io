@@ -28,16 +28,16 @@ section {
   gap: 20px;
 }
 .card {
-  background: white;
+  background: rgb(200, 233, 198);
   padding: 20px;
   border-radius: 10px;
 }
 footer {
   text-align: center;
   padding: 20px;
-  background-color: #eee;
+  background-color: #454343;
 }
-@media (min-width: 600px){
+@media (min-width: 600px) {
   .grid {
     grid-template-columns: 1fr 1fr;
   }
